@@ -3,3 +3,4 @@ banana
 cherry
 durian
 emu apple
+fuji apple
