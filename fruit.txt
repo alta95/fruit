@@ -3,3 +3,4 @@ banana
 cherry
 durian
 elderberry
+fig
