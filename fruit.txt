@@ -2,3 +2,4 @@ apple
 banana
 cherry
 durian
+emu apple
